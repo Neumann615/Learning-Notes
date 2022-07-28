@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=JSON.parse('{"name":"zym","age":22}');function n(e,n){return e+n}n(2,3),console.log(e,n(1,2))})();

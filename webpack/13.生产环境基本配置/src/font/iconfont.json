@@ -1,0 +1,205 @@
+{
+  "id": "2455844",
+  "name": "lzc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20384106",
+      "name": "病毒",
+      "font_class": "bingdu",
+      "unicode": "ec54",
+      "unicode_decimal": 60500
+    },
+    {
+      "icon_id": "20384129",
+      "name": "出入证",
+      "font_class": "churuzheng",
+      "unicode": "ec55",
+      "unicode_decimal": 60501
+    },
+    {
+      "icon_id": "20384130",
+      "name": "防护",
+      "font_class": "fanghu",
+      "unicode": "ec56",
+      "unicode_decimal": 60502
+    },
+    {
+      "icon_id": "20384131",
+      "name": "肺部",
+      "font_class": "feibu",
+      "unicode": "ec57",
+      "unicode_decimal": 60503
+    },
+    {
+      "icon_id": "20384132",
+      "name": "感染",
+      "font_class": "ganran",
+      "unicode": "ec58",
+      "unicode_decimal": 60504
+    },
+    {
+      "icon_id": "20384135",
+      "name": "健康",
+      "font_class": "jiankang",
+      "unicode": "ec59",
+      "unicode_decimal": 60505
+    },
+    {
+      "icon_id": "20384138",
+      "name": "试剂盒",
+      "font_class": "shijihe",
+      "unicode": "ec5a",
+      "unicode_decimal": 60506
+    },
+    {
+      "icon_id": "20384141",
+      "name": "酒精湿巾",
+      "font_class": "jiujingshijin",
+      "unicode": "ec5b",
+      "unicode_decimal": 60507
+    },
+    {
+      "icon_id": "20384143",
+      "name": "口罩",
+      "font_class": "kouzhao",
+      "unicode": "ec5c",
+      "unicode_decimal": 60508
+    },
+    {
+      "icon_id": "20384144",
+      "name": "输液",
+      "font_class": "shuye",
+      "unicode": "ec5d",
+      "unicode_decimal": 60509
+    },
+    {
+      "icon_id": "20384146",
+      "name": "CT",
+      "font_class": "CT",
+      "unicode": "ec5e",
+      "unicode_decimal": 60510
+    },
+    {
+      "icon_id": "20384147",
+      "name": "疫苗",
+      "font_class": "yimiao",
+      "unicode": "ec5f",
+      "unicode_decimal": 60511
+    },
+    {
+      "icon_id": "20384149",
+      "name": "护目镜",
+      "font_class": "humujing",
+      "unicode": "ec60",
+      "unicode_decimal": 60512
+    },
+    {
+      "icon_id": "20384150",
+      "name": "消毒喷雾",
+      "font_class": "xiaodupenwu",
+      "unicode": "ec61",
+      "unicode_decimal": 60513
+    },
+    {
+      "icon_id": "20384151",
+      "name": "勤洗手",
+      "font_class": "qinxishou",
+      "unicode": "ec62",
+      "unicode_decimal": 60514
+    },
+    {
+      "icon_id": "20384153",
+      "name": "药物",
+      "font_class": "yaowu",
+      "unicode": "ec63",
+      "unicode_decimal": 60515
+    },
+    {
+      "icon_id": "20384154",
+      "name": "通风",
+      "font_class": "tongfeng",
+      "unicode": "ec64",
+      "unicode_decimal": 60516
+    },
+    {
+      "icon_id": "20384156",
+      "name": "抗体",
+      "font_class": "kangti",
+      "unicode": "ec65",
+      "unicode_decimal": 60517
+    },
+    {
+      "icon_id": "20384158",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "ec66",
+      "unicode_decimal": 60518
+    },
+    {
+      "icon_id": "20384159",
+      "name": "隔离",
+      "font_class": "geli",
+      "unicode": "ec67",
+      "unicode_decimal": 60519
+    },
+    {
+      "icon_id": "20384161",
+      "name": "阳性",
+      "font_class": "yangxing",
+      "unicode": "ec68",
+      "unicode_decimal": 60520
+    },
+    {
+      "icon_id": "20384168",
+      "name": "阴性",
+      "font_class": "yinxing",
+      "unicode": "ec69",
+      "unicode_decimal": 60521
+    },
+    {
+      "icon_id": "20384170",
+      "name": "药箱",
+      "font_class": "yaoxiang",
+      "unicode": "ec6a",
+      "unicode_decimal": 60522
+    },
+    {
+      "icon_id": "20384172",
+      "name": "急救",
+      "font_class": "jijiu",
+      "unicode": "ec6b",
+      "unicode_decimal": 60523
+    },
+    {
+      "icon_id": "20384177",
+      "name": "医院",
+      "font_class": "yiyuan",
+      "unicode": "ec6c",
+      "unicode_decimal": 60524
+    },
+    {
+      "icon_id": "20384180",
+      "name": "交通管制",
+      "font_class": "jiaotongguanzhi",
+      "unicode": "ec6d",
+      "unicode_decimal": 60525
+    },
+    {
+      "icon_id": "20384182",
+      "name": "洗手液",
+      "font_class": "xishouye",
+      "unicode": "ec6e",
+      "unicode_decimal": 60526
+    },
+    {
+      "icon_id": "20384184",
+      "name": "体温计",
+      "font_class": "tiwenji",
+      "unicode": "ec6f",
+      "unicode_decimal": 60527
+    }
+  ]
+}

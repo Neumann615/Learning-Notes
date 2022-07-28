@@ -1,0 +1,9 @@
+.zym {
+    color: lightpink;
+    display: flex;
+    backface-visibility: hidden;
+}
+
+.wxx::before {
+    content: "好想左一曼";
+}
